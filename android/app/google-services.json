@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "179875244690",
+    "project_id": "chatapp-d5ac2",
+    "storage_bucket": "chatapp-d5ac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179875244690:android:afae2933c9876ca86dd44b",
+        "android_client_info": {
+          "package_name": "com.example.backslah_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179875244690-ei8d6k4vtcb8jdpchujdqpf5tqngb8t2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.backslah_chat_app",
+            "certificate_hash": "7d0f0adf91305978b2eacfcaa388f2562345b381"
+          }
+        },
+        {
+          "client_id": "179875244690-dbs1o0udnjhpr14fakgngnk21h2aifus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEqs_mzP3igKMruR7fxsBHO02fQF83aAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179875244690-dbs1o0udnjhpr14fakgngnk21h2aifus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
